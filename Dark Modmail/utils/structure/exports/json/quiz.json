@@ -1,0 +1,30 @@
+[
+	{
+		"question": "What is the most popular code language?",
+		"answers": ["py", "python"]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix"]
+	},
+  {
+    "question": "How many tails does a Manx cat have?",
+    "answers": ["none", "no tails", "They don't have one", "0"]
+  },
+  {
+    "question": "Which sea creature has three hearts?",
+    "answers": ["octopus", "Octopus"]
+  },
+  {
+    "question": "What is the Italian word for pie?",
+    "answers": ["Pizza", "pizza"]
+  },
+  {
+    "question": "How many bones are there on a Skull & Crossbones flag?",
+    "answers": ["3", "Three", "three"]
+  },
+  {
+    "question": "What's the biggest animal in the world?",
+    "answers": ["blue whale", "Blue Whale", "bluewhale", "BlueWhale"]
+  }
+]
